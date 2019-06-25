@@ -1,0 +1,13 @@
+{
+    "name": "feplayground",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "learn_modules": "anywhere -p 8091"
+    },
+    "author": "lzf",
+    "license": "ISC",
+    "devDependencies": {
+        "anywhere": "^1.4.0"
+    }
+}
